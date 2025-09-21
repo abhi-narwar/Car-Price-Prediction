@@ -1,38 +1,49 @@
-# 🚗 Car Price Prediction – A Machine Learning Project
+# 🚗 Car Price Prediction – Machine Learning Project
 
-This project predicts the selling price of used cars using a Linear Regression model.  
+This project predicts the selling price of used cars using a **Linear Regression** model.  
 It simulates a real-world business scenario where accurate price estimation is essential for decision-making.
 
-## 📌 Project Highlights
+---
 
-- 🔍 Exploratory Data Analysis (EDA)
-- 🧼 Data Cleaning & Preprocessing
-- 📈 Linear Regression Model
-- 📊 Model Evaluation using MAE, MSE, RMSE & R² Score
+## 🔍 Project Highlights
 
-## 🧠 Dataset Features
+- **Exploratory Data Analysis (EDA):** Understanding data patterns and distributions.  
+- **Data Cleaning & Preprocessing:** Handling missing values, encoding categorical variables.  
+- **Linear Regression Model:** Building and training the model.  
+- **Model Evaluation:** Using MAE, MSE, RMSE & R² Score to assess model performance.
 
-- Car Brand & Model  
-- Year of Manufacture  
-- Mileage, Fuel Type, Transmission  
-- Owner Type & Location  
-- Selling Price (Target Variable)
+---
 
-## 🛠️ Tech Stack
+## 📊 Dataset Features
 
-- Python, Jupyter Notebook  
-- NumPy, Pandas, Matplotlib, Seaborn  
-- Scikit-learn
+- **Car Brand & Model**
+- **Year of Manufacture**
+- **Mileage**
+- **Fuel Type**
+- **Transmission**
+- **Owner Type**
+- **Location**
+- **Selling Price (Target Variable)**
 
-## 🚀 How to Run
+---
 
-```bash
-# Clone the repo
-git clone https://github.com/your-username/car-price-prediction.git
-cd car-price-prediction
+## 🛠 Tech Stack
 
-# Install requirements
-pip install -r requirements.txt
+- **Languages:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Environment:** Jupyter Notebook
 
-# Run the notebook
-jupyter notebook CarPricePrediction.ipynb
+---
+
+## 📁 File Structure
+
+- `car-price-prediction-solution.ipynb`: Jupyter Notebook containing the complete solution.  
+- `car-price-prediction.pdf`: PDF version of the notebook for easy viewing.
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/abhi-narwar/Car-Price-Prediction.git
